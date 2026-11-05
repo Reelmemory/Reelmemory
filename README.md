@@ -8,7 +8,7 @@ Building practical software across web technologies, blockchain infrastructure, 
 
 Selected Projects
 
-**RegisterGuard POS** · [GitHub](https://github.com/Reelmemory/RegisterGuard-POS) — Blockchain-powered POS infrastructure with mainnet payment workflows.
+**RegisterGuard POS** · (https://github.com/Reelmemory/RegisterGuard-POS) — Blockchain-powered POS infrastructure with mainnet payment workflows.
 
 Divora — AI-powered NFT trading agent.
 
