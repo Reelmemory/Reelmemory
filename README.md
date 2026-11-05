@@ -1,16 +1,34 @@
-## Hi there 👋
+Reelmemory
 
-<!--
-**Reelmemory/Reelmemory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer · Web2 & Web3 · Backend Systems · AI Engineering
 
-Here are some ideas to get you started:
+Building practical software across web technologies, blockchain infrastructure, backend systems, and intelligent automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Selected Projects
+
+RegisterGuard POS · "GitHub" (https://github.com/Reelmemory/RegisterGuard-POS) — Blockchain-powered POS infrastructure with mainnet payment workflows.
+
+Divora — AI-powered NFT trading agent.
+
+Pace — Adaptive spending application built around Walrus and Sui.
+
+PayPal Shield AI — AI-powered payment security project.
+
+BIMO — Interactive AI assistant.
+
+---
+
+Engineering Focus
+
+- Web Development & Backend Engineering
+- IT Support & Technical Troubleshooting
+- Cloud Computing & Infrastructure
+- Blockchain & Smart Contract Development
+- AI Agents & Intelligent Automation
+- API Development & Integration
+
+---
+
+"GitHub" (https://github.com/Reelmemory) · "LinkedIn" (https://www.linkedin.com/in/airhihenbuwa-memory-969488410/) · "Portfolio" (#)
