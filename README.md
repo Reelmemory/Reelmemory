@@ -1,4 +1,4 @@
-Reelmemory
+**Reelmemory**
 
 Software Engineer · Web2 & Web3 · Backend Systems · AI Engineering
 
@@ -8,7 +8,7 @@ Building practical software across web technologies, blockchain infrastructure, 
 
 Selected Projects
 
-RegisterGuard POS · "GitHub" (https://github.com/Reelmemory/RegisterGuard-POS) — Blockchain-powered POS infrastructure with mainnet payment workflows.
+**RegisterGuard POS** · [GitHub](https://github.com/Reelmemory/RegisterGuard-POS) — Blockchain-powered POS infrastructure with mainnet payment workflows.
 
 Divora — AI-powered NFT trading agent.
 
@@ -30,5 +30,3 @@ Engineering Focus
 - API Development & Integration
 
 ---
-
-"GitHub" (https://github.com/Reelmemory) · "LinkedIn" (https://www.linkedin.com/in/airhihenbuwa-memory-969488410/) · "Portfolio" (#)
