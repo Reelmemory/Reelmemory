@@ -10,17 +10,17 @@ Selected Projects
 
 **RegisterGuard POS** · [GitHub](https://github.com/Reelmemory/RegisterGuard-POS) — Blockchain-powered POS infrastructure with mainnet payment workflows.
 
+**PayPal Shield AI** · [GitHub](https://github.com/Reelmemory/PayPal-Shield-AI) - AI-powered payment security project.
+
 Divora — AI-powered NFT trading agent.
 
 Pace — Adaptive spending application built around Walrus and Sui.
-
-PayPal Shield AI — AI-powered payment security project.
 
 BIMO — Interactive AI assistant.
 
 ---
 
-Engineering Focus
+**Engineering Focus**
 
 - Web Development & Backend Engineering
 - IT Support & Technical Troubleshooting
